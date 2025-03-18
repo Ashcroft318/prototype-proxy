@@ -10,7 +10,7 @@ Features
 - **Anonymity:** Hides the user's real IP address by routing traffic through secure, anonymized channels.
 - **Encryption:** Utilizes modern encryption techniques to secure the data being transferred.
 - **Lightweight:** A minimal, efficient proxy for secure browsing.
-- **Emergency Kill-Switch:** Provides a mechanism to stop the proxy at any time for maximum control over the user's privacy.
+- **Emergency Kill-Switch:** Provides a mechanism to stop the proxy at any time for maximum control over the user's privacy. (Potential Implementation)
 - **Customizable:** Easily configurable to suit specific needs, such as adjusting proxy settings and kill-switch parameters.
 
 ## Installation
